@@ -1,4 +1,6 @@
 # Clase_Git2
 
 
-HOla mundo
+Hola mundo.
+
+Prueba de repositorio 
